@@ -92,4 +92,5 @@ This is the fourth course in the Natural Language Processing Specialization.
 
 # Specialization Completion Certificate
 
-![Certificate](https://coursera.org/share/eaa8db629067bf51652f750b4c35c8a4)
+![Certificate](
+https://www.coursera.org/account/accomplishments/specialization/certificate/D9VHFN2KCBBM)
